@@ -134,4 +134,4 @@ Execution evidence can be provided through:
 
 ## Author
 
-QA Automation Engineer
+QA Automation Engineer Gabriela Villoria
