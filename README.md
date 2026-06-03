@@ -13,7 +13,7 @@ The suite is designed with maintainability and clarity in mind, prioritizing rea
 
 - Playwright
 - Node.js
-- JavaScript (or TypeScript if applicable)
+- JavaScript 
 
 ### Why this stack?
 
